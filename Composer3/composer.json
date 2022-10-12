@@ -1,0 +1,11 @@
+{
+    "name": "degio/composer3",
+    "autoload": {
+        "psr-4": {
+            "Composer3\\": "src/"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
